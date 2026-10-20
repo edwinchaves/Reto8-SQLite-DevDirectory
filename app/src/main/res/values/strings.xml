@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DevDirectory</string>
+    <string name="app_subtitle">Directorio Tech</string>
+    <string name="search_hint">Buscar empresa por nombre...</string>
+    <string name="all_classifications">Todas</string>
+    <string name="consultoria">Consultoría</string>
+    <string name="desarrollo_medida">Desarrollo a la medida</string>
+    <string name="fabrica_software">Fábrica de software</string>
+    <string name="no_empresas_registradas">No hay empresas registradas</string>
+    <string name="no_empresas_encontradas">No se encontraron empresas con los filtros aplicados</string>
+    <string name="btn_add_empresa">Agregar Empresa</string>
+    <string name="dialog_title_add">Nueva Empresa</string>
+    <string name="dialog_title_edit">Editar Empresa</string>
+    <string name="label_nombre">Nombre de la empresa *</string>
+    <string name="label_url">Sitio Web (URL)</string>
+    <string name="label_telefono">Teléfono</string>
+    <string name="label_email">Correo Electrónico</string>
+    <string name="label_productos_servicios">Productos y Servicios</string>
+    <string name="label_clasificacion">Clasificación</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="delete_confirm_title">Confirmar eliminación</string>
+    <string name="delete_confirm_message">¿Está seguro de eliminar la empresa \'%1$s\'? Esta acción no se puede deshacer.</string>
+    <string name="delete_confirm_positive">Eliminar</string>
+    <string name="error_empty_name">El nombre de la empresa es obligatorio</string>
+    <string name="empresa_guardada">Empresa guardada con éxito</string>
+    <string name="empresa_actualizada">Empresa actualizada con éxito</string>
+    <string name="empresa_eliminada">Empresa eliminada con éxito</string>
+    <string name="error_guardar">Error al guardar la empresa</string>
+    <string name="cd_edit_empresa">Editar empresa</string>
+    <string name="cd_delete_empresa">Eliminar empresa</string>
+    <string name="cd_phone">Teléfono de contacto</string>
+    <string name="cd_web">Sitio web</string>
+    <string name="cd_email">Correo de contacto</string>
+    <string name="cd_services">Productos y servicios</string>
+    <string name="cd_add">Agregar nueva empresa</string>
+
+    <plurals name="empresas_count">
+        <item quantity="one">%d empresa</item>
+        <item quantity="other">%d empresas</item>
+    </plurals>
+</resources>

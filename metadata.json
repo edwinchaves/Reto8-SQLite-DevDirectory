@@ -1,0 +1,6 @@
+{
+  "name": "DevDirectory",
+  "description": "Directorio de Empresas de Software con almacenamiento en SQLite y Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
